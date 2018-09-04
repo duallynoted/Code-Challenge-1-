@@ -29,12 +29,16 @@ function handleCreateButton(){
 // In a CSS file, any <div> created using the "Generate" button should start with red as it's background-color.
 //DONE IN CSS
 // Clicking a "Swap" <button> should change its parent background-color from red to yellow (HINT: Research toggleClass).
+
+//***This is where I'm stuck. My small step is trying to log if the swap button is working, and I can't get it to work. */
 function handleSwapButton () {
     console.log('swap is working');       
 };
+
 // $('#swapButton').click(function (){
 //     $('#appendedDiv').toggleClass('secondary');
     // })
+    
 // Clicking the "Swap" <button> on a yellow div should turn the background-color to red.
 
 // Clicking a "Delete" <button> should remove its parent <div>.
