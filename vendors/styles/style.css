@@ -1,7 +1,15 @@
-/* body {
-    background-color: antiquewhite
+body {
+    background-color: rgba(215, 218, 250, 0.482)
 }
-#appendedDiv {
+.ketchup {
+    background-color: red;
+    margin-bottom: 10px;
+}
+.mustard {
+    background-color: yellow;
+}
+
+/* #appendedDiv {
     background-color: red;
 }
 secondary {
@@ -10,9 +18,3 @@ secondary {
 #swapButton{
     background-color: purple;
 } */
-.ketchup {
-    background-color: red;
-}
-.mustard {
-    background-color: yellow;
-}
