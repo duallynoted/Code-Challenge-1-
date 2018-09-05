@@ -1,4 +1,4 @@
-body {
+/* body {
     background-color: antiquewhite
 }
 #appendedDiv {
@@ -9,4 +9,10 @@ secondary {
 }
 #swapButton{
     background-color: purple;
+} */
+.ketchup {
+    background-color: red;
+}
+.mustard {
+    background-color: yellow;
 }
